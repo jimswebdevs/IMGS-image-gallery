@@ -1,5 +1,5 @@
 # ~ IMGS Image Gallery Website ~
-# This website is hosted on Github and published here: [link to my website](https://xjanus.github.io/IMGS-image-gallery/) 
+# This website is hosted on Github and linked here: [link to this website](https://xjanus.github.io/IMGS-image-gallery/) 
 
 * A Front End Only website specifically uses the Bootstrap grid system and Bootstrap predefined thumbnail class.
 
